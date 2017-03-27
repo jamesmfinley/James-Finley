@@ -4,4 +4,6 @@ Lehigh University senior, writing concentration with communications minor, educa
 
 helpful search engine: [google](https://www.google.com/)
 
-[Lehigh University First Year Class by Major](
+# Infographic
+## Distribution of majors by percentage at Lehigh University in 2016
+![Lehigh University First Year Class by Major](https://jamesmfinley.github.io/First%20Year%20Class%20by%20Major.png)
