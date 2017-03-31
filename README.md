@@ -8,6 +8,10 @@ helpful search engine: [google](https://www.google.com/)
 ## Distribution of majors by percentage at Lehigh University in 2016
 ![Lehigh University First Year Class by Major](https://jamesmfinley.github.io/First%20Year%20Class%20by%20Major.png)
 
+# Infographic
+## Hollywood's Gender Imbalance
+![Hollywood's Gender Imbalance](https://jamesmfinley.github.io/stats.png)
+
 # Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NpJyC8_msJe1JR6BVqow6YHdTFG6O9UFCyHJBpVirHU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
