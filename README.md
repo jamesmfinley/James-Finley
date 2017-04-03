@@ -17,3 +17,6 @@ helpful search engine: [google](https://www.google.com/)
 
 # Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=10I3kkQ0b_HDgSiWZU_gEKN9etQUNtOyPsnSWmtrE3Ro&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+# Chart
+## 2016 Distribution of Undergraduate Enrollment
