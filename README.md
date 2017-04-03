@@ -20,3 +20,4 @@ helpful search engine: [google](https://www.google.com/)
 
 # Chart
 ## 2016 Distribution of Undergraduate Enrollment
+![Distribution of Undergraduate Enrollment Chart](https://jamesmfinley.github.io/2016_Distribution_of_Undergraduate_Enrollment_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png)
