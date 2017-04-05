@@ -24,4 +24,9 @@ helpful search engine: [google](https://www.google.com/)
 
 # Line Chart
 ## Undergraduate Enrollment Distribution Changes Over Ten Years
+
 ![Undergraduate Enrollment Distribution Changes Over Ten Years](jamesmfinley.github.io/Changes_in_Undergraduate_Enrollment__Arts_and_Sciences_Business_and_Economics_Engineering_and_Applied_Sciences_chartbuilder.png)
+
+![Undergraduate Enrollment Distribution Change Over Ten Years](https://github.com/jamesmfinley/jamesmfinley.github.io/blob/master/Changes_in_Undergraduate_Enrollment__Arts_and_Sciences_Business_and_Economics_Engineering_and_Applied_Sciences_chartbuilder.png?raw=true)
+
+https://github.com/jamesmfinley/jamesmfinley.github.io/blob/master/Changes_in_Undergraduate_Enrollment__Arts_and_Sciences_Business_and_Economics_Engineering_and_Applied_Sciences_chartbuilder.png?raw=true
