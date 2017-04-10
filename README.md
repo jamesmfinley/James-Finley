@@ -26,3 +26,7 @@ helpful search engine: [google](https://www.google.com/)
 ## Undergraduate Enrollment Distribution Changes Over Ten Years
 
 ![Undergraduate Enrollment Distribution Changes Over Ten Years](jamesmfinley.github.io/Changes_in_Undergraduate_Enrollment__Arts_and_Sciences_Business_and_Economics_Engineering_and_Applied_Sciences_chartbuilder.png)
+
+# Insect Map
+
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col12+from+1u_kSmxQqVE2GxQhZlOdkbbsbEd6-iG6lepYXnqFo&amp;viz=MAP&amp;h=false&amp;lat=10.864547272730059&amp;lng=-85.38170487792974&amp;t=1&amp;z=11&amp;l=col12&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
