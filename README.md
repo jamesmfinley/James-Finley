@@ -29,4 +29,4 @@ helpful search engine: [google](https://www.google.com/)
 
 # Insect Map
 
-<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col12+from+12bc2q8-XnI6iRwMk2Ayg4c4xTnRAdNAoeHS5FnT2&amp;viz=MAP&amp;h=false&amp;lat=10.838921339211367&amp;lng=-85.43320329101567&amp;t=1&amp;z=11&amp;l=col12&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
+<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col12+from+12bc2q8-XnI6iRwMk2Ayg4c4xTnRAdNAoeHS5FnT2&amp;viz=MAP&amp;h=false&amp;lat=10.838921339211367&amp;lng=-85.43320329101567&amp;t=1&amp;z=11&amp;l=col12&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
