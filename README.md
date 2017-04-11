@@ -30,7 +30,7 @@ helpful search engine: [google](https://www.google.com/)
 # Line Chart
 ## Homicides Cases in Philadelphia County OVer Ten Years
 
-![Homicides Cases in Philadelphia County OVer Ten Years](jamesmfinley.github.io/Homicides_in_Philadelphia_County_Offenses_Known_chartbuilder (1).png)
+![Homicides Cases in Philadelphia County OVer Ten Years](https://jamesmfinley.github.io/Homicides_in_Philadelphia_County_Offenses_Known_chartbuilder (1).png)
 
 # Insect Map
 
