@@ -25,7 +25,7 @@ helpful search engine: [google](https://www.google.com/)
 # Line Chart
 ## Undergraduate Enrollment Distribution Changes Over Ten Years
 
-![Undergraduate Enrollment Distribution Changes Over Ten Years](jamesmfinley.github.io/Changes_in_Undergraduate_Enrollment__Arts_and_Sciences_Business_and_Economics_Engineering_and_Applied_Sciences_chartbuilder.png)
+![Undergraduate Enrollment Distribution Changes Over Ten Years](https://jamesmfinley.github.io/Changes_in_Undergraduate_Enrollment__Arts_and_Sciences_Business_and_Economics_Engineering_and_Applied_Sciences_chartbuilder.png)
 
 # Line Chart
 ## Homicides Cases in Philadelphia County OVer Ten Years
