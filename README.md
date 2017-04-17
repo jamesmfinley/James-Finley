@@ -46,4 +46,4 @@ helpful search engine: [google](https://www.google.com/)
 
 # Top U.S. Baby Names
 
-![Top U.S. Baby Names](https://public.tableau.com/views/BabyNameTrendsintheUS19102012/Dashboard1?:embed=y&:display_count=yes)
+[Top U.S. Baby Names](https://public.tableau.com/views/BabyNameTrendsintheUS19102012/Dashboard1?:embed=y&:display_count=yes)
