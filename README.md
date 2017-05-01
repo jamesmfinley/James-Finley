@@ -14,7 +14,7 @@ Lehigh University senior, writing concentration with communications minor, educa
 
 # Map of the Most Expensive Restaurants in Lehigh Valley
 
-<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1CIGAUFeC0U81n4-DQzV7WCKfvfqWHby2aeNDstPr&amp;viz=MAP&amp;h=false&amp;lat=40.63284290894414&amp;lng=-75.29578817485348&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+17GXybK8gK1ZlzugsHcM9oxkArXhWRSXWv8uzFnWH&amp;viz=MAP&amp;h=false&amp;lat=40.633233728303715&amp;lng=-75.34436834453118&amp;t=1&amp;z=10&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 # Popularity of Cats and Dogs
 <md>
