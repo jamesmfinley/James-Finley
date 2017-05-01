@@ -5,6 +5,7 @@ Lehigh University senior, writing concentration with communications minor, educa
 # Infographic
 ## Hollywood's Gender Imbalance
 ![Hollywood's Gender Imbalance](https://jamesmfinley.github.io/stats.png)
+![Hollywood's Gender Imbalance](jamesmfinley.github.io/infographic.png)
 
 # Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=10I3kkQ0b_HDgSiWZU_gEKN9etQUNtOyPsnSWmtrE3Ro&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
